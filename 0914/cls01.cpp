@@ -2,15 +2,14 @@
 #include <stdlib.h>
 #include <conio.h>
 int main(void){
-	char string[20];
-	char c;
-	printf("문자열입력: ");
-	scanf("%s", string); 
-	printf("문자입력: ");
-	scanf("%c", &c);
-	
-	printf("%s\n", string);
-	printf("!!%c!!\n", c); 
+	char s;
+	scanf("%c", &s);
+	while(1) {
+		printf("%c", s);
+		scanf("%c", &s);
+		if(s='\n') { break; }
+	}
+	printf("Good Bye!");
 	return 0;
 }
 
