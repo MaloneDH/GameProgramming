@@ -3,7 +3,7 @@ _______
 ## 게임프로그래밍(2022-2) 강의를 위한 Repository입니다. 
 ( 22.10.12 ~ 22.12.21)
 ### presentation#1
-![ppt메인화면](presentation#1\ppt_screenshot.png)
+![ppt메인화면](./presentation%231/ppt_screenshot.png)
 #### dev c++를 이용해서 Upgrade 하기 
 - 게시 날짜 ( 22.10.12 )
     - 수정한 부분 
